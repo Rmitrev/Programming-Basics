@@ -1,2 +1,2 @@
 # Programming-Basics
-All programs, are from Soft Uni(Programming Basics module)Some Changes All programs, are from Soft Uni(Programming Basics module)Tryin Merge
+All programs, are from Soft Uni(Programming Basics module)Some Changes
