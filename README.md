@@ -1,2 +1,2 @@
 # Programming-Basics
-All programs, are from Soft Uni(Programming Basics module)Some Changes :P
+All programs, are from Soft Uni(Programming Basics module)Some Changes :O
